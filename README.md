@@ -1,3 +1,3 @@
 # Gestion des stages
 
-Plateforme de gestion de stages.
+Une Plateforme de gestion de stages.
