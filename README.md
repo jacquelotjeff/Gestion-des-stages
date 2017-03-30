@@ -1,3 +1,3 @@
 # Gestion des stages
 
-Plateforme de gestion de stages.
+Exemple de Plateforme de gestion de stages pour le cours de bts1.
